@@ -1,0 +1,125 @@
+As chaves de prata são utilizadas para abrir certos baus que estão pelo mundo de Albion.
+Essas chaves geralmente estão enterradas ou submersas nas águas de lagos.
+Quantos for coletadas todas as 30 chaves de prata do jogo podera se abrir todos os baus que precisam de 30 chaves ou menos alem dos baus também pode abrir uma porta demoniaca.
+Nesses baus podem ser achados armas lendarias, armaduras raras, e poções algumas para aumentar sua barra de vida ou sua barra de mana tem algumas para aumentar a vitalidade e a força.
+ 
+
+Silver Key= 1
+Localização: Guild Woods
+Notas: Depois de obter uma vara de pescar, saia da Guilda dos Heróis até a floresta próxima para encontrar uma chave de prata no lago.
+
+Silver Key= 2
+Localização: Lookout Point
+Notas: Abra caminho através dos arbustos destacados perto da estátua central para encontrar uma chave prateada.
+
+Silver Key= 3
+Localização: Orchard Farm
+Notas: Vá até o cais na área deserta de Orchard Farm e pesque nele para pegar outra chave.
+
+Silver Key= 4
+Localização: Fisher Creek
+Notas: Consiga uma chave de prata pescando no lado norte da casa do velho.
+
+Silver Key= 5
+Localização: Bowerstone South
+Notas: Vá para o segundo andar da loja de roupas dentro de Bowerstone South para encontrar uma chave prateada na varanda.
+
+Silver Key= 6
+Localização: Greatwood Lake
+Notas: Suba a colina perto do baú prateado para revelar outra chave prateada.
+
+Silver Key= 7
+Localização: Darkwood Lake
+Notas: Este é um pouco complicado. Encontre o pilar mostrado na imagem à esquerda e atire uma flecha em seu buraco para revelar uma chave dentro. (Olhar o minimapa pode ajudar a encontrar sua localização)
+
+Silver Key= 8
+Localização: Ancient Cullis Gate
+Notas: Outra chave pode ser encontrada simplesmente pescando na ponte no lado oeste do mapa.
+
+Silver Key= 9
+Localização: Oakvale (Memorial Garden)
+Notas: Você não saberá como cavar neste local até que tenha ajudado o pirata morto-vivo e ele lhe diga onde seu tesouro está enterrado. Use sua pá na base da estátua no Memorial Garden para revelar uma chave de prata e um Machado Obsidiano.
+
+Silver Key= 10
+Localização: Twinblade's Camp
+Notas: Use sua pá perto do baú no lado sul do mapa para descobrir outra chave prateada.
+
+Silver Key= 11
+Localização: Rose Cottage
+Notas: Use sua pá dentro do anel de flores do lado de fora da casa da vovó para encontrar uma chave de prata.
+
+Silver Key= 12
+Localização: Hobbe Cave (Focus Chamber)
+Notas: Quando você chegar à grande sala cheia de água no final da Caverna Hobbe, vá para o lado norte para desenterrar uma chave no meio do canteiro de cogumelos.
+
+Silver Key= 13
+Localização: Grey House
+Notas: Não se precipite ao explorar a Porta Demoníaca neste mapa - há uma chave escondida no lago próximo a ela que uma sessão de pesca pode descobrir.
+
+Silver Key= 14
+Localização: Knothole Glade
+Notas: Ao explorar o lado sul deste mapa, passe entre dois dos edifícios para revelar um círculo de folhagem onde um uso rápido de sua pá lhe dará outra chave.
+
+Silver Key= 15
+Localização: Witchwood Stones
+Notas: Você pode conseguir outra chave de prata pescando no lago fora da Porta do Demônio em Witchwood Stones.
+
+Silver Key= 16
+Localização: Witchwood Lake
+Notas: Cave um buraco na base da estátua mostrada na imagem e você sairá com outra chave.
+
+Silver Key= 17
+Localização: Windmill Hill
+Notas: Não muito longe do caminho em Windmill Hill há um pequeno jardim com um anel de flores. Cave no centro e uma chave prateada será sua.
+
+Silver Key= 18
+Localização: Windmill Hill
+Notas: Atrás do moinho de vento você encontrará um anel de flores. Mais uma vez, cave no centro para encontrar outra chave.
+
+Silver Key= 19
+Localização: Lychfield Graveyard
+Notas: Use sua pá quando estiver no túmulo fora da cripta no lado sul do mapa e você desenterrará uma chave adicional.
+
+Silver Key= 20
+Localização: Lychfield Graveyard
+Notas: Saqueie o sarcófago dentro da cripta no lado sul deste mapa para ganhar outra chave.
+
+Silver Key= 21
+Localização: Lychfield Graveyard
+Notas: Outra chave pode ser encontrada no cemitério de Lychfield pescando no pequeno lago a oeste da casa do coveiro.
+
+Silver Key= 22
+Localização: Cliffside Path
+Notas: Suba a pequena colina no lado norte deste mapa para encontrar um anel de cogumelos onde uma chave de prata está enterrada.
+
+Silver Key= 23
+Localizaçâo: Headsman's Hill
+Notas: Você não pode obter esta chave até mais tarde no jogo, quando você batalha contra Thunder pela mão de Lady Grey em casamento. Durante a luta, Thunder irá derrubá-lo de um penhasco em uma pequena área com um lago. Pesca mais um pouco e você terá outra chave. Se você escolher ficar do lado de Lady Grey e se tornar prefeito de Bowerstone, você deverá usar a falha de teletransporte para obter a chave.
+
+Silver Key= 24
+Localização: Bowerstone Manor
+Notas: Depois de se casar com Lady Grey e ter acesso à mansão, vasculhe a cama dela em busca de uma chave de prata.
+
+Silver Key= 25
+Localização: Hook Coast
+Notas: Saqueie o armário logo após a porta do farol para obter mais uma chave prateada.
+
+Silver Key= 26
+Localização: Fisher Creek
+Notas: Ganhe o segundo prêmio na competição de pesca para ganhar a chave de prata.
+
+Silver Key= 27
+Localização: Oakvale
+Notas: Ganhe o segundo prêmio na competição Chicken Kicking para ganhar a chave de prata.
+
+Silver Key= 28
+Localização: Bowerstone South
+Notas: Doe 25 livros para a escola em Bowerstone South para ganhar esta chave de prata. (Espero que você não tenha esquecido de colecionar livros:3)
+
+Silver Key= 29
+Localização: The Lost Bay
+Notas: Você pode encontrar esta chave prateada cavando a sepultura próxima ao prédio abandonado.
+
+Silver Key= 30
+Localização: Necropolis
+Notas: Vá para o lado sul do rio e pesque nas ondas para ganhar outra chave de prata.

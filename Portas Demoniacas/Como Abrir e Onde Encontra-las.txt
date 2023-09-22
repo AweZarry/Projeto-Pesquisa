@@ -1,0 +1,63 @@
+Porta= 1
+Localização: Guilda Dos Heróis
+Item necessário: Lanterna
+Como Abrir: Ligue a lanterna na frente dela
+
+Porta= 2
+Localização: Greatwood Gorge
+Item Necessário: Chicks Crunchy(10x)
+Como Abrir: Coma 10 Chicks Crunchy na frente da porta.
+
+Porta= 3
+
+Localização: Greatwood Caves
+Item necessário: multiplicador de combate numero 14
+Como abrir: recomenda-se entrar na caverna dos Hobbe's, com a Magia de te deixar Imune a dano, e conseguir pelo menos 25 de multiplicador de combate, quando o conseguir, saia da caverna e fale com a porta. Será necessário matar bastante Hobbe's na caverna e evitar que o multiplicador abaixe.
+
+Porta= 4
+
+Localização: Rose Cottage
+Item necessário: Presentes( Rosa, Caixa de chocolate, etc)
+Como Abrir: Apenas De um presente para a porta.
+
+Porta= 5
+
+Localização: Darkwood Marsh
+Item necessário: Arma de combate
+Como Abrir: A porta irá pedir para você derrotar alguns guardiões para testar sua força, apenas mate alguns Hobbe's que a porta irá pedir.
+
+Porta= 6
+
+Localização: Darkwood Bordello
+Item Necessário: Pênis
+Como Abrir: Essa porta só ira abrir para aqueles que tenham feito sexo no minimo 10 vezes
+
+Porta= 7
+
+Localização: Barrow Fields
+Itens Necessários: Comidas e cervejas
+Como Abrir: Você precisa ser obeso, ou ficar obeso, portanto como bastante carne e tome bastante cerveja para que seu personagem fique obeso.
+
+Porta= 8
+
+Localização: Abandoned Road
+Itens necessários: Traje de Cavaleiro Galante, Traje de Mago negro, Traje de bandido
+Como Abrir: Apos ter os 3 trajes tido acima, fale com a porta e logo em seguida use os trajes, um de cada vez. A porta irá pedir consecutivamente o de cavaleiro, o de mago e o de bandido.
+
+Porta= 9
+
+Localização: Knothole Glade
+Item Necessário: Arco ou Besta
+Como abrir: Acerte, com seu arco ou a sua besta, a porta. É preciso acertar com toda a força em seus olhos, nariz ou boca. É recomendado que você esteja perto dela para dar mais impacto.
+
+Porta= 10
+
+Localização: Grey House
+Item Necessário: Lady Gray
+Como Abrir: Basta ser casado com a Lady Gray
+
+Porta= 11
+
+Localização: Necrópole
+Itens Necessários: Chaves de prata (30x)
+Como Abrir: É preciso entregar todas as 30 chaves de prata para a porta. Recomenda-se abrir todos os baus com as chaves primeiro.

@@ -1,0 +1,59 @@
+Chest= 1
+Localização: Heroes' Guild
+Precisa de 20 Silver Key
+Conteúdo do Chest: O Grande Martelo Murren
+
+Chest= 2
+Localização: Greatwood Lake
+Precisa de 5 Silver Key
+Conteúdo do Chest: Elixir da Vida
+
+Chest= 3
+Localização: Hobbe Cave (Cave Larder)
+Precisa de 5 Silver Key
+Conteúdo do Chest: Elixir do Mestre Will
+
+Chest= 4
+Localização: Darkwood Lake
+Precisa de 15 Silver Key
+Conteúdo do Chest: Besta de Arken
+
+Chest= 5
+Localização: Grey House
+Precisa de 10 Silver Key
+Conteúdo do Chest: Aumento de nitidez
+
+Chest= 6
+Localização: Witchwood Stones
+Precisa de 15 Silver Key
+Conteúdo do Chest: Aumento de Vida
+
+Chest= 7
+Localização: Headsman's Hill (Cave)
+Precisa de 15 Silver Key
+Conteúdo do Chest: Aumento de Mana
+
+Chest= 8
+Localização: Bowerstone Manor
+Precisa de 15 Silver Key
+Conteúdo do Chest: Katana de Hiryu
+
+Chest= 9
+Localização: Circle of the Dead
+Precisa de 10 Silver Key
+Conteúdo do Chest: Piercing Aumento de piercing
+
+Chest= 10
+Localização: Hook Coast
+Precisa de 15 Silver Key
+Conteúdo do Chest: O Machado Grande Murren
+
+Chest= 11
+Localização: The Lost Bay
+Precisa de 30 Silver Key
+Conteúdo do Chest: O Vingador mais uma coleção de joias
+
+Chest= 12
+Localização: Necropolis
+Precisa de 25 Silver Key
+Conteúdo do Chest:Elmo de Batalha do Arconte, Pedaço de Baú de Batalha do Arconte, Manoplas de Batalha do Arconte, Perneiras de Batalha do Arconte e Botas de Batalha do Arconte
